@@ -53,3 +53,7 @@ p {
 .btn-secondary:hover {
     background-color: #5a6268;
 }
+.carousel-item img {
+    width: 100%;
+    height: auto;
+}
