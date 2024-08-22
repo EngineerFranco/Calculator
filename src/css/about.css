@@ -1,0 +1,38 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.container {
+    background: #ffffff;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2 {
+    color: #343a40;
+}
+
+.lead {
+    font-size: 1.25rem;
+    color: #6c757d;
+}
+
+.list-group-item {
+    border: none;
+    background: #f8f9fa;
+    padding: 15px;
+}
+
+.list-group-item:first-child {
+    border-top: 1px solid #dee2e6;
+}
+
+.btn-danger {
+    background-color: #dc3545;
+    border: none;
+}
+
+.btn-danger:hover {
+    background-color: #c82333;
+}
